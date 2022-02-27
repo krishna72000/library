@@ -5,13 +5,17 @@
 
 Steps to run this project
 
-Step 1: place the project folder into hosting environment ie insice your htdocs folder if xampp or inside www/html forder if wamp server
+Step 1: place the project folder into hosting environment ie insice your htdocs folder if xampp or inside www/html folder if wamp server
 
-Step 2: create database with name library ad import the file database.sql. database.sql in inside the project folder
+Step 2: create database with name library and import the file database.sql. database.sql in inside the project folder
 
 Step 3: update the database and its login detail in file config/db.php. place your db name, db user, and db password here.
 
-Step 4: In out browser run http://localhost/library/web to start the project.
+Step 4: unzip vendoe.zip folder right where it is.
+
+Step 5: Run command `php yii serve` inside the project folder and follow the link on browser
+                                    OR
+        Open your browser and enter the link `http://localhost/library/web` to start the project.
 
 
 Current progress
