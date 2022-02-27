@@ -5,6 +5,7 @@
 
 Steps to run this project
 
+
 Step 1: place the project folder into hosting environment ie insice your htdocs folder if xampp or inside www/html folder if wamp server
 
 Step 2: create database with name library and import the file database.sql. database.sql in inside the project folder
@@ -17,6 +18,11 @@ Step 5: Run command `php yii serve` inside the project folder and follow the lin
                                     OR
         Open your browser and enter the link `http://localhost/library/web` to start the project.
 
+
+* Prerequired:
+    You must have xampp or wamp server installed on your pc.
+    You can get it here
+        https://www.apachefriends.org/xampp-files/7.4.27/xampp-windows-x64-7.4.27-2-VC15-installer.exe
 
 Current progress
 
